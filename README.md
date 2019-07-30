@@ -1,3 +1,3 @@
-# ECharts
+# echarts-bmap
 
-When use echarts with bmap extension, disable bmap click event.
+### When use echarts with bmap extension, disable bmap click event.
